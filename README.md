@@ -10,3 +10,8 @@ Uses `abc` and `re` libraries.
 
 Copy `main.py` into the editor.  Follow the instructions to run the code.
 
+## Credits
+
+### Acknowledgements
+
+[FreeCodeCamp](https://www.freecodecamp.org)
